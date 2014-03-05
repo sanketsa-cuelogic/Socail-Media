@@ -1,8 +1,5 @@
 <?php
 
-// Start a session, load the library
-session_start();
-
 include_once('clsTumblr.php');
 //Creating object
 $objCls = new ClsTumblerAPI;
